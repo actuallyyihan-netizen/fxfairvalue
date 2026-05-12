@@ -7,3 +7,4 @@ pandas-datareader==0.10.0
 pyyaml
 python-dotenv
 requests
+statsmodels
