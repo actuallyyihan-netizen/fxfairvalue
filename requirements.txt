@@ -1,0 +1,9 @@
+streamlit
+pandas==2.2.2
+numpy
+plotly
+yfinance
+pandas-datareader==0.10.0
+pyyaml
+python-dotenv
+requests
