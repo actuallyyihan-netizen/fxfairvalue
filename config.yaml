@@ -1,0 +1,35 @@
+currencies:
+  - USD
+  - EUR
+  - JPY
+  - GBP
+  - CHF
+  - CAD
+  - AUD
+  - NZD
+  - NOK
+  - SEK
+  - CNY
+  - CNH
+
+feature_settings:
+  history_period: "10y"
+  data_interval: "1d"
+  zscore_window_days: 756
+  fair_value_scale: 0.06
+
+weights:
+  ppp_gap: 1.0
+  reer_momentum_5y: 0.5
+  rate_diff: 0.5
+  real_rate_diff: 0.5
+  inflation_diff: 0.3
+  growth_diff: 0.0
+  risk_sentiment: 0.2
+  volatility: 0.2
+  oil_beta: 0.2
+  copper_beta: 0.2
+  gold_beta: 0.1
+  reer_gap: 0.5
+  terms_of_trade: 0.3
+  cnh_policy_proxy: 0.0
