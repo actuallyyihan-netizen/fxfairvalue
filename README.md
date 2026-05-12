@@ -700,7 +700,27 @@ Add the ability to download:
 
 ⸻
 
-14. Disclaimer
+14. References
+Current implemented data sources:
+
+* Yahoo Finance via yfinance
+* Alpha Vantage
+* FRED via pandas_datareader
+
+Currently proxied but intended future institutional sources:
+
+* BIS REER data
+* OECD terms-of-trade data
+
+Research references:
+
+* Currency Value paper
+* GSDEER paper
+* FX Short-Term Fair Value Modelling deck
+
+⸻
+
+15. Disclaimer
 
 This dashboard is for research and educational purposes only.
 
